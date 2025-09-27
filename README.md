@@ -1,2 +1,10 @@
-# Aspect-Based-System-Analysis
-In this  project, i  try to reconize customer review . that it's positive, negative or neatural. 
+---
+title: MyAbsa API
+emoji: 🏢
+colorFrom: yellow
+colorTo: pink
+sdk: docker
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
